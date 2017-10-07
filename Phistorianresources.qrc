@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="images">
+    <file>Stop-64.png</file>
+    <file>Start-256.png</file>
+  </qresource>
+</RCC>
